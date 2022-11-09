@@ -6,9 +6,7 @@ Sonar Status: [![Quality Gate Status](https://sonarcloud.io/api/project_badges/m
 
 # FEATURES
     •Custom note(update,delete)
-    
     •CRUD of note
-    
     •Social login(email)
     
 # TECHNOLOGIES USED
@@ -16,4 +14,10 @@ Sonar Status: [![Quality Gate Status](https://sonarcloud.io/api/project_badges/m
     •Firebase
     •Javascript
     •HTML
+    
+# INSTALL
+    npm install
+    
+# USAGE
+    npm start
     
